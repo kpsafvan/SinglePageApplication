@@ -1,0 +1,38 @@
+.left{
+    width: 20%;
+    height: 20%;
+    margin-top: 3%;
+    position: absolute;
+    margin-left: 20%;
+}
+.middle{
+    width: 20%;
+    height: 20%;
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 30%;
+}
+h1{
+    padding-top: 0px;
+    color:rgba(0, 0, 0, 0.453);
+    margin-top: 0px;
+}
+.right{
+    width: 20%;
+    position: absolute;
+    height: 20%;
+    margin-top: 3%;
+    margin-left: 70%;
+}
+.bottom{
+    position: absolute;
+    
+    margin-top: 20%;
+    font-size: 30px;
+    margin-left: 2%;
+    border: 10px solid rgba(0, 0, 0, 0.453);
+    padding-top: 0px;
+    height: 45%;
+    width: 80%;
+    color: rgba(0, 0, 0, 0.453);
+}
